@@ -1,0 +1,1070 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220101,
+                "station_area_id": 20101,
+ "direction":"ida",               "orden": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6281290054321289,
+                    41.638301849365234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220102,
+                "station_area_id": 20102,
+ "direction":"ida",               "orden": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6267279982566833,
+                    41.63819885253906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220104,
+                "station_area_id": 20104,
+ "direction":"ida",               "orden": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6240500211715698,
+                    41.6427001953125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220105,
+                "station_area_id": 20105,
+ "direction":"ida",               "orden": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.626911997795105,
+                    41.63750076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220106,
+                "station_area_id": 20106,
+ "direction":"ida",               "orden": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6275219917297363,
+                    41.63639831542969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220107,
+                "station_area_id": 20107,
+ "direction":"ida",               "orden": 6
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6303690075874329,
+                    41.63359832763672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220099,
+                "station_area_id": 20108,
+ "direction":"ida",               "orden": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6310870051383972,
+                    41.63180160522461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220109,
+                "station_area_id": 20109,
+ "direction":"ida",               "orden": 8
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6292449831962585,
+                    41.63090133666992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220273,
+                "station_area_id": 20285,
+ "direction":"ida",               "orden": 9
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6263039708137512,
+                    41.62910079956055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220272,
+                "station_area_id": 20111,
+ "direction":"ida",               "orden": 10
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6283720135688782,
+                    41.62770080566406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220305,
+                "station_area_id": 20112,
+ "direction":"ida",               "orden": 11
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6304270029067993,
+                    41.625999450683594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220294,
+                "station_area_id": 20294,
+ "direction":"ida",               "orden": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6308069825172424,
+                    41.6245002746582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220152,
+                "station_area_id": 20297,
+ "direction":"ida",               "orden": 13
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6274939775466919,
+                    41.62260055541992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220298,
+                "station_area_id": 20298,
+ "direction":"ida",               "orden": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.624879002571106,
+                    41.62149810791016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220355,
+                "station_area_id": 20355,
+ "direction":"ida",               "orden": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6222689747810364,
+                    41.620399475097656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220194,
+                "station_area_id": 20194,
+ "direction":"ida",               "orden": 16
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6193349957466125,
+                    41.61880111694336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220195,
+                "station_area_id": 20195,
+ "direction":"ida",               "orden": 17
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6203240156173706,
+                    41.616798400878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220003,
+                "station_area_id": 20196,
+ "direction":"ida",               "orden": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6196150183677673,
+                    41.61320114135742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220146,
+                "station_area_id": 20146,
+ "direction":"ida",               "orden": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6228179931640625,
+                    41.61069869995117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220147,
+                "station_area_id": 20147,
+ "direction":"ida",               "orden": 20
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6252250075340271,
+                    41.61280059814453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220013,
+                "station_area_id": 20148,
+ "direction":"ida",               "orden": 21
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6270740032196045,
+                    41.61439895629883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220076,
+                "station_area_id": 20059,
+ "direction":"ida",               "orden": 22
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6299020051956177,
+                    41.61360168457031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220391,
+                "station_area_id": 20060,
+ "direction":"ida",               "orden": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.631492018699646,
+                    41.61190032958984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220074,
+                "station_area_id": 20061,
+ "direction":"ida",               "orden": 24
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6333860158920288,
+                    41.61009979248047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220073,
+                "station_area_id": 20062,
+ "direction":"ida",               "orden": 25
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.637578010559082,
+                    41.6067008972168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 320072,
+                "station_area_id": 20063,
+ "direction":"ida",               "orden": 26
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6396660208702087,
+                    41.6057014465332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220064,
+                "station_area_id": 20064,
+ "direction":"ida",               "orden": 27
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6415029764175415,
+                    41.60340118408203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 321068,
+                "station_area_id": 20360,
+ "direction":"ida",               "orden": 28
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6426100134849548,
+                    41.602298736572266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220067,
+                "station_area_id": 20067,
+ "direction":"ida",               "orden": 29
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6456549763679504,
+                    41.60219955444336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220069,
+                "station_area_id": 20069,
+ "direction":"ida",               "orden": 30
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6455090045928955,
+                    41.60480117797851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220091,
+                "station_area_id": 20078,
+ "direction":"ida",               "orden": 31
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6446930170059204,
+                    41.60699844360352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220079,
+                "station_area_id": 20079,
+ "direction":"ida",               "orden": 32
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6483960151672363,
+                    41.609901428222656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220089,
+                "station_area_id": 20080,
+ "direction":"ida",               "orden": 33
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6505619883537292,
+                    41.61199951171875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220082,
+                "station_area_id": 20082,
+ "direction":"ida",               "orden": 34
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6557760238647461,
+                    41.612701416015625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220083,
+                "station_area_id": 20083,
+ "direction":"ida",               "orden": 35
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6573420166969299,
+                    41.61249923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220352,
+                "station_area_id": 20352,
+ "direction":"ida",               "orden": 36
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6633129715919495,
+                    41.61069869995117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220084,
+                "station_area_id": 20084,
+ "direction":"ida",               "orden": 37
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6636509895324707,
+                    41.609901428222656
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "identificador": 220085,
+                "station_area_id": 20085,
+ "direction":"vuelta",                "orden": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.662846028804779,
+                    41.60900115966797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220086,
+                "station_area_id": 20086,
+ "direction":"vuelta",                "orden": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6640009880065918,
+                    41.6083984375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220087,
+                "station_area_id": 20087,
+ "direction":"vuelta",                "orden": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6626480221748352,
+                    41.608299255371094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220088,
+                "station_area_id": 20088,
+ "direction":"vuelta",                "orden": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6556000113487244,
+                    41.61090087890625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220089,
+                "station_area_id": 20089,
+ "direction":"vuelta",                "orden": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6504639983177185,
+                    41.612098693847656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220090,
+                "station_area_id": 20090,
+ "direction":"vuelta",                "orden": 6
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6473190188407898,
+                    41.60919952392578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220091,
+                "station_area_id": 20091,
+ "direction":"vuelta",                "orden": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6447579860687256,
+                    41.6072998046875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220346,
+                "station_area_id": 20346,
+ "direction":"vuelta",                "orden": 8
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6469929814338684,
+                    41.605499267578125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220347,
+                "station_area_id": 20347,
+ "direction":"vuelta",                "orden": 9
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6460679769515991,
+                    41.60300064086914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 321068,
+                "station_area_id": 20349,
+ "direction":"vuelta",                "orden": 10
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.642274022102356,
+                    41.602500915527344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220350,
+                "station_area_id": 20350,
+ "direction":"vuelta",                "orden": 11
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.641418993473053,
+                    41.604400634765625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 320072,
+                "station_area_id": 20072,
+ "direction":"vuelta",                "orden": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.639477014541626,
+                    41.60599899291992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220073,
+                "station_area_id": 20073,
+ "direction":"vuelta",                "orden": 13
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6374009847640991,
+                    41.60699844360352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220074,
+                "station_area_id": 20074,
+ "direction":"vuelta",                "orden": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6334649920463562,
+                    41.610198974609375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220391,
+                "station_area_id": 20075,
+ "direction":"vuelta",                "orden": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6317949891090393,
+                    41.61190032958984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220076,
+                "station_area_id": 20076,
+ "direction":"vuelta",                "orden": 16
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6303150057792664,
+                    41.61370086669922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220013,
+                "station_area_id": 20013,
+ "direction":"vuelta",                "orden": 17
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6271569728851318,
+                    41.61479949951172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220147,
+                "station_area_id": 20014,
+ "direction":"vuelta",                "orden": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6248040199279785,
+                    41.61259841918945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 321030,
+                "station_area_id": 20001,
+ "direction":"vuelta",                "orden": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6226999759674072,
+                    41.61090087890625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220002,
+                "station_area_id": 20002,
+ "direction":"vuelta",                "orden": 20
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6202890276908875,
+                    41.61190032958984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220003,
+                "station_area_id": 20003,
+ "direction":"vuelta",                "orden": 21
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6198899745941162,
+                    41.61330032348633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220195,
+                "station_area_id": 20004,
+ "direction":"vuelta",                "orden": 22
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6205899715423584,
+                    41.61669921875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220005,
+                "station_area_id": 20005,
+ "direction":"vuelta",                "orden": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.619841992855072,
+                    41.61920166015625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220114,
+                "station_area_id": 20006,
+ "direction":"vuelta",                "orden": 24
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6229760050773621,
+                    41.62049865722656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220298,
+                "station_area_id": 20007,
+ "direction":"vuelta",                "orden": 25
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6253979802131653,
+                    41.62149810791016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220093,
+                "station_area_id": 20093,
+ "direction":"vuelta",                "orden": 26
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6287869811058044,
+                    41.62289810180664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220294,
+                "station_area_id": 20293,
+ "direction":"vuelta",                "orden": 27
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6310020089149475,
+                    41.6244010925293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220305,
+                "station_area_id": 20094,
+ "direction":"vuelta",                "orden": 28
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6305570006370544,
+                    41.6260986328125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220272,
+                "station_area_id": 20272,
+ "direction":"vuelta",                "orden": 29
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6285349726676941,
+                    41.627899169921875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220273,
+                "station_area_id": 20273,
+ "direction":"vuelta",                "orden": 30
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6261299848556519,
+                    41.629600524902344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220097,
+                "station_area_id": 20097,
+ "direction":"vuelta",                "orden": 31
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6302859783172607,
+                    41.63090133666992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220099,
+                "station_area_id": 20098,
+ "direction":"vuelta",                "orden": 32
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6314079761505127,
+                    41.63199996948242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220099,
+                "station_area_id": 20099,
+ "direction":"vuelta",                "orden": 33
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6310210227966309,
+                    41.632301330566406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220100,
+                "station_area_id": 20100,
+ "direction":"vuelta",                "orden": 34
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6288589835166931,
+                    41.63669967651367
+                ]
+            }
+        }
+    ]
+}
