@@ -1,0 +1,515 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220085,
+                "station_area_id": 20085,
+                "orden": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.662846028804779,
+                    41.60900115966797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220086,
+                "station_area_id": 20086,
+                "orden": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6640009880065918,
+                    41.6083984375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220087,
+                "station_area_id": 20087,
+                "orden": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6626480221748352,
+                    41.608299255371094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220088,
+                "station_area_id": 20088,
+                "orden": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6556000113487244,
+                    41.61090087890625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220089,
+                "station_area_id": 20089,
+                "orden": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6504639983177185,
+                    41.612098693847656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220090,
+                "station_area_id": 20090,
+                "orden": 6
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6473190188407898,
+                    41.60919952392578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220091,
+                "station_area_id": 20091,
+                "orden": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6447579860687256,
+                    41.6072998046875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220346,
+                "station_area_id": 20346,
+                "orden": 8
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6469929814338684,
+                    41.605499267578125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220347,
+                "station_area_id": 20347,
+                "orden": 9
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6460679769515991,
+                    41.60300064086914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 321068,
+                "station_area_id": 20349,
+                "orden": 10
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.642274022102356,
+                    41.602500915527344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220350,
+                "station_area_id": 20350,
+                "orden": 11
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.641418993473053,
+                    41.604400634765625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 320072,
+                "station_area_id": 20072,
+                "orden": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.639477014541626,
+                    41.60599899291992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220073,
+                "station_area_id": 20073,
+                "orden": 13
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6374009847640991,
+                    41.60699844360352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220074,
+                "station_area_id": 20074,
+                "orden": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6334649920463562,
+                    41.610198974609375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220391,
+                "station_area_id": 20075,
+                "orden": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6317949891090393,
+                    41.61190032958984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220076,
+                "station_area_id": 20076,
+                "orden": 16
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6303150057792664,
+                    41.61370086669922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220013,
+                "station_area_id": 20013,
+                "orden": 17
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6271569728851318,
+                    41.61479949951172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220147,
+                "station_area_id": 20014,
+                "orden": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6248040199279785,
+                    41.61259841918945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 321030,
+                "station_area_id": 20001,
+                "orden": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6226999759674072,
+                    41.61090087890625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220002,
+                "station_area_id": 20002,
+                "orden": 20
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6202890276908875,
+                    41.61190032958984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220003,
+                "station_area_id": 20003,
+                "orden": 21
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6198899745941162,
+                    41.61330032348633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220195,
+                "station_area_id": 20004,
+                "orden": 22
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6205899715423584,
+                    41.61669921875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220005,
+                "station_area_id": 20005,
+                "orden": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.619841992855072,
+                    41.61920166015625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220114,
+                "station_area_id": 20006,
+                "orden": 24
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6229760050773621,
+                    41.62049865722656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220298,
+                "station_area_id": 20007,
+                "orden": 25
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6253979802131653,
+                    41.62149810791016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220093,
+                "station_area_id": 20093,
+                "orden": 26
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6287869811058044,
+                    41.62289810180664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220294,
+                "station_area_id": 20293,
+                "orden": 27
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6310020089149475,
+                    41.6244010925293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220305,
+                "station_area_id": 20094,
+                "orden": 28
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6305570006370544,
+                    41.6260986328125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220272,
+                "station_area_id": 20272,
+                "orden": 29
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6285349726676941,
+                    41.627899169921875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220273,
+                "station_area_id": 20273,
+                "orden": 30
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6261299848556519,
+                    41.629600524902344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220097,
+                "station_area_id": 20097,
+                "orden": 31
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6302859783172607,
+                    41.63090133666992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220099,
+                "station_area_id": 20098,
+                "orden": 32
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6314079761505127,
+                    41.63199996948242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220099,
+                "station_area_id": 20099,
+                "orden": 33
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6310210227966309,
+                    41.632301330566406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "identificador": 220100,
+                "station_area_id": 20100,
+                "orden": 34
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6288589835166931,
+                    41.63669967651367
+                ]
+            }
+        }
+    ]
+}
